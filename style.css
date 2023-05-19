@@ -1,6 +1,12 @@
 body{
-    background-color: orange;
+    background-color: white;
+    margin: 0px;
 }
 h1{
-    color: white;
+    color: green;
+}
+header{
+    background-color: darkslategrey;
+    height: 300px;
+    width: 100%;
 }
